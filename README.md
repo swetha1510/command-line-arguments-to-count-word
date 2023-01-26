@@ -31,7 +31,7 @@ Print the changed empty dictionary and close the file.
 
 ## PROGRAM:
 
-``
+```
 Program to count the words from a file using command line arguments
 Developed by:SWETHA P
 Registernumber:22008542
